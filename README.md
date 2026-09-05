@@ -1,6 +1,6 @@
-#Hi there 👋, I am Debraj Khan
+Hi there 👋, I am Debraj Khan
 
-###🚀 B.Tech CSE (AI) | Full-Stack-Developer | AI/ML Enthusiast | Natural Astronomer
+##🚀 B.Tech CSE (AI) | Full-Stack-Developer | AI/ML Enthusiast | Natural Astronomer
 
 I'm a second-year B.Tech student specializing in Artificial Intelligence at the University of Engineering and Management (UEM), Kolkata. I love building robust backend architectures, exploring OpenCV, AI ML systems, and occasionally gazing at the stars (or simulating them).
 ---
